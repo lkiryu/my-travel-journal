@@ -1,0 +1,58 @@
+.places-section{
+    padding: 45px 40px 30px;
+}
+
+.place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 35px;
+    max-width: 470px;
+}
+
+.place-photo{
+    width: 125px;
+    height: 170px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.location{
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    margin-bottom: 10px;
+}
+
+.location .icon{
+    color: #F55A5A;
+}
+
+.location p{
+    text-transform: uppercase;
+    color: #2B283A;
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+
+.maps-link{
+    font-size: 10px;
+    color: #918E9B;
+}
+
+.location-name{
+    font-size: 25px;
+    color: #2B283A;
+    margin-bottom: 15px;
+}
+
+.dates{
+    font-weight: 700;
+    font-size: 10px;
+    color: #2B283A;
+}
+
+.description{
+    font-size: 10px;
+    margin-top: 10px;
+}

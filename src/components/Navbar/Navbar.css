@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F55A5A;
+    padding: 16px;
+    width: 100%;
+}
+
+.globe{
+    margin-right: 10px;
+}
+
+.navbar .title{
+    color: #FFFFFF;
+    font-weight: 500;
+}
